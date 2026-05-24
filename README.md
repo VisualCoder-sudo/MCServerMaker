@@ -2,7 +2,8 @@
 
 # All code by (https://github.com/VisualCoder-sudo)
 
-# Make sure to have
+## Make sure to have
+#
 ### Python 3.10+
 ### java 21+
 ### Pyside6
